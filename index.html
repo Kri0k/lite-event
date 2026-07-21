@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>Обрезание ленты · Лайт-ивент Arma 3 · Русь</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800;900&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="map-background">
+        <div class="grid-layer" id="gridLayer"></div>
+        <div class="map-details" id="mapDetails"></div>
+    </div>
+
+    <section class="hero" id="hero">
+        <div class="hero-content" id="heroParallax">
+            <div class="event-tag">Лайт-ивент Arma 3 • Русь</div>
+            <h1 class="mission-title">Обрезание ленты</h1>
+            <div class="author-line">Автор миссии – <span style="color:#98d898;">Фиксик</span></div>
+            <div class="zevs">Зевсы: Яндекс, Фиксик</div>
+            <div class="date-badge">1 августа 18:00 МСК</div>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="briefing-layout">
+            <div class="sticky-text reveal" id="stickyText">
+                <h2>▪ Операция 104 ДШД</h2>
+                <p>Весна 20хх год. <strong style="color:#98d898;">Прямое столкновение сил НАТО и Объединенной группировки войск РФ</strong>. Пока условная линия фронта застыла на территориях Румынии и Польши, командование ВС РФ приняло рискованное, но стратегически важное решение – вскрыть оборону противника ударом в глубоком тылу.</p>
+                <p><strong style="color:#98d898;">Задача 104-й гвардейской дивизии ВДВ:</strong><br>За двое суток до начала основной фазы наступления, усиленный взвод 104-й дивизии (кодовое имя «Богомол») был десантирован с борта Ил-76 в 80 километрах юго-западнее города Дебрецен (Венгрия). Десант прошел незамеченным благодаря сложному рельефу местности и плотному туману. Группа совершила 15-километровый марш-бросок к лесному массиву у населенного пункта «Тисахидвег» (Tisza-hídvég).</p>
+                <p>Венгерская территория официально считается «глубоким тылом» сил НАТО. Основные силы Бундесвера задействованы в сдерживании наступающих частей РФ у Перемышля. Здесь, в Тисахидвеге, расположен ключевой узел ретрансляции тактической связи, обеспечивающий управление беспилотниками и артиллерией на северном фланге. Противник не подозревает о присутствии «Богомола», однако в значительном радиусе от объекта выставлены мобильные патрули на легкой технике и оборудованы блокпосты.</p>
+            </div>
+            <div class="gallery-scroll">
+                <div class="gallery-item reveal"><div class="placeholder-img"></div></div>
+                <div class="gallery-item reveal"><div class="placeholder-img"></div></div>
+                <div class="gallery-item reveal"><div class="placeholder-img"></div></div>
+                <div class="gallery-item reveal"><div class="placeholder-img"></div></div>
+                <div class="gallery-item reveal"><div class="placeholder-img"></div></div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="intel-layout">
+            <div class="map-sticky-container reveal">
+                <div class="map-card" id="mapCard">
+                    <div class="map-placeholder"></div>
+                </div>
+            </div>
+            <div class="task-text reveal">
+                <h2 style="color:#c0f0a0; margin-bottom:1.5rem;">Боевая задача</h2>
+                <h3>▸ Обстановка</h3>
+                <p>Утро (10:20). Пункт связи «Kisbarát-hegy» охраняется патрулями Бундесвера. Ближайшие блокпосты могут выслать подкрепление в течение 15 минут после тревоги. Объект связи расположен на небольшом холме, доминирующем над рекой Тиса. Зона окружена лесами и неравномерным рельефом.</p>
+                <h3>▸ Основная цель</h3>
+                <p>Взводу «Богомол» необходимо бесшумно (насколько это возможно) выдвинуться на пункт связи «Тисахидвег», штурмом захватить административное здание узла связи и удержать периметр в течение 3-х суток.</p>
+                <h3>▸ Вторичная цель</h3>
+                <p>Установить заряды на мачте ретранслятора (высота 20 метров) и удерживать периметр до момента детонации.</p>
+                <h3>▸ Примечание</h3>
+                <p>Были проработаны два подхода к пункту связи – по дороге и по реке. При движении по дороге отряд неминуемо столкнется с блокпостами и, вероятно, с мобильными патрулями. Помимо этого теряется фактор неожиданности при атаке на пункт связи - враг успеет организоваться. При движении по реке отряд не столкнется с блокпостами, но все еще может натолкнуться на патрули. Фактор неожиданности сохранен, однако противник может подтянуть силы с блокпостов в крайне низкие сроки, что усложнит оборону.</br></br>Арсенал доступен на старте. Взводу приписаны БМП-3 и БМД-4М для выполнения задачи.</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="section roles-section">
+        <h2 class="platoon-title">Взвод «Богомол»</h2>
+        <h2 class="squad-title">1-е отделение</h2>
+        <div class="roles-row" id="row1">
+            <div class="role-card"><div class="silhouette"><img src="Content/images/sprites/КомОтд.png" alt="силуэт"></div><div class="role-name">Командир отд.</div><div class="rank">Ст. Сержант</div><div class="callsign">&lt;Позывной&gt;</div></div>
+            <div class="role-card"><div class="silhouette"><img src="Content/images/sprites/Пулеметчик.png" alt="силуэт"></div><div class="role-name">Пулеметчик</div><div class="rank">Ефрейтор</div><div class="callsign">&lt;Свободно&gt;</div></div>
+            <div class="role-card"><div class="silhouette"><img src="Content/images/sprites/Снайпер.png" alt="силуэт"></div><div class="role-name">Снайпер</div><div class="rank">Ефрейтор</div><div class="callsign">&lt;Свободно&gt;</div></div>
+            <div class="role-card"><div class="silhouette"><img src="Content/images/sprites/Гранатометчик.png" alt="силуэт"></div><div class="role-name">Гранатометчик</div><div class="rank">Ефрейтор</div><div class="callsign">&lt;Свободно&gt;</div></div>
+            <div class="role-card"><div class="silhouette"><img src="Content/images/sprites/Санитар.png" alt="силуэт"></div><div class="role-name">Санитар</div><div class="rank">Ефрейтор</div><div class="callsign">&lt;Свободно&gt;</div></div>
+        </div>
+        <div class="roles-row" id="row2">
+            <div class="role-card"><div class="silhouette"><img src="Content/images/sprites/ЗамКомОтд.png" alt="силуэт"></div><div class="role-name">Ст. стрелок</div><div class="rank">Мл. Сержант</div><div class="callsign">&lt;Свободно&gt;</div></div>
+            <div class="role-card"><div class="silhouette"><img src="Content/images/sprites/Стрелок ГП.png" alt="силуэт"></div><div class="role-name">Стрелок-ГП</div><div class="rank">Рядовой</div><div class="callsign">&lt;Свободно&gt;</div></div>
+            <div class="role-card"><div class="silhouette"><img src="Content/images/sprites/Стрелок 1.png" alt="силуэт"></div><div class="role-name">Стрелок</div><div class="rank">Рядовой</div><div class="callsign">&lt;Свободно&gt;</div></div>
+            <div class="role-card"><div class="silhouette"><img src="Content/images/sprites/Стрелок 2.png" alt="силуэт"></div><div class="role-name">Стрелок</div><div class="rank">Рядовой</div><div class="callsign">&lt;Свободно&gt;</div></div>
+            <div class="role-card"><div class="silhouette"><img src="Content/images/sprites/Стрелок 3.png" alt="силуэт"></div><div class="role-name">Стрелок</div><div class="rank">Рядовой</div><div class="callsign">&lt;Свободно&gt;</div></div>
+        </div>
+        <h2 class="squad-title">ГБМ</h2>
+        <div class="roles-row" id="row3">
+            <div class="role-card"><div class="silhouette"><img src="Content/images/sprites/Механик-Водитель.png" alt="силуэт"></div><div class="role-name">Механик-водитель</div><div class="rank">Сержант</div><div class="callsign">&lt;Свободно&gt;</div></div>
+            <div class="role-card"><div class="silhouette"><img src="Content/images/sprites/Оператор-Наводчик.png" alt="силуэт"></div><div class="role-name">Оператор-наводчик</div><div class="rank">Мл. Сержант</div><div class="callsign">&lt;Свободно&gt;</div></div>
+        </div>
+
+        <div class="quote-block reveal">
+            «Победа достигается не числом, а умением и внезапностью.»
+            <div class="quote-author">— Александр Васильевич Суворов</div>
+        </div>
+    </section>
+    <script src="script.js"></script>
+</body>
