@@ -389,7 +389,51 @@ h1, h2, h3, .futuristic {
     font-style: normal;
     font-family: 'Orbitron', sans-serif;
 }
+
+@media (max-width: 1300px) {
+    .event-tag {
+        font-size: 1.2vw;
+        padding: 0.8vw 3vw;
+    }
+    
+    .sticky-text h2 {
+        font-size: 2.2vw;
+    }
+    .sticky-text p {
+        font-size: 1.3vw;
+    }
+    .task-text h2 {
+        font-size: 2.7vw;
+    }
+    .task-text h3 {
+        font-size: 1.8vw;
+        margin: 3vw 0 1.2vw;
+    }
+    .task-text p {
+        font-size: 1.3vw;
+    }
+
+
+}
+
 @media (max-width: 1000px) {
+    .event-tag {
+        font-size: 1.7vw;
+        padding: 0.8vw 6vw;
+        margin-bottom: 7vw;
+    }
+    .mission-title {
+        font-size: 8vw;
+        margin-bottom: 1vw;
+    }
+    .author-line {
+        font-size: 1.5vw;
+        margin-bottom: 7vw;
+    }
+    .date-badge {
+        font-size: 2.8vw;
+    }
+    
     .grid-layer {
         width: 600vw;
         inset: -10%;
