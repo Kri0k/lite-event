@@ -161,7 +161,7 @@ h1, h2, h3, .futuristic {
 }
 .sticky-text p {
     margin-bottom: 1.8vw;
-    font-size: 0.95vw;
+    font-size: 1vw;
     color: #cbdfba;
     text-shadow: 0 0.2vw 0.8vw black;
     line-height: 1.6;
@@ -271,6 +271,9 @@ h1, h2, h3, .futuristic {
     color: #b9f0a0;
     margin: 1.5vw 0 0.6vw;
     font-size: 1.5vw;
+}
+.task-test p {
+    font-size: 1vw;
 }
 
 
