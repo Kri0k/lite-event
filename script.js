@@ -2,7 +2,7 @@
             // ---- ДАННЫЕ КОМАНД (10 штук) ----
             const teams = [
                 { name: "Багет 21", number: "34", pilot: "Крас", navigator: "Актёр", car: "i20/yashkino.png", sponsors: ["yashkino/1.png", "yashkino/2.png", "yashkino/3.png"] },
-                { name: "-СВОБОДНО-", number: "00", pilot: "Игрок", navigator: "Игрок", car: "template.png", sponsors: ["-", "-", "-"] },
+                { name: "Волжская связь", number: "63", pilot: "Картограф", navigator: "-", car: "i20/vkusno-i-tochka.png", sponsors: ["vkusno/1.png", "vkusno/2.png", "vkusno/3.png", "vkusno/4.png"] },
                 { name: "-СВОБОДНО-", number: "00", pilot: "Игрок", navigator: "Игрок", car: "template.png", sponsors: ["-", "-", "-"] },
                 { name: "-СВОБОДНО-", number: "00", pilot: "Игрок", navigator: "Игрок", car: "template.png", sponsors: ["-", "-", "-"] },
                 { name: "-СВОБОДНО-", number: "00", pilot: "Игрок", navigator: "Игрок", car: "template.png", sponsors: ["-", "-", "-"] },
