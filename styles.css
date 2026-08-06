@@ -411,7 +411,7 @@ h1.glitch-text {
 }
 .team-car-placeholder {
     height: 100%;
-    width: auto;
+    width: 57%;
     aspect-ratio: 1/1;
     background-image: url("content/images/cars/template.png");
     background-size: contain;
@@ -422,7 +422,7 @@ h1.glitch-text {
     display: flex;
     flex-direction: column;
     gap: 0.3vw;
-    width: auto;
+    width: 40%;
 }
 .team-info .team-name {
     font-family: Tektur;
