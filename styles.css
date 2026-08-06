@@ -124,7 +124,7 @@ h1, h2, h3, .retro-title {
     text-align: center;
     position: relative;
     background-image: url("content/images/banner.png");
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     background-color: rgba(0,0,0,0.6);
     background-blend-mode: multiply;
