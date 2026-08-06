@@ -5,7 +5,7 @@
                 { name: "Волжская связь", number: "63", pilot: "Картограф", navigator: "-", car: "i20/vkusno.png", sponsors: ["vkusno/1.png", "vkusno/2.png", "vkusno/3.png"] },
                 { name: "Озонваффлен", number: "24", pilot: "Курьер", navigator: "Лобстер", car: "puma/ozon.png", sponsors: ["ozon/1.png", "ozon/2.png", "ozon/3.png"] },
                 { name: "Д.С. 'Подберёзовик'", number: "52", pilot: "Остров", navigator: "Каспий", car: "puma/jeffrey.png", sponsors: ["jeffrey/1.png", "jeffrey/2.png"] },
-                { name: "-СВОБОДНО-", number: "00", pilot: "Игрок", navigator: "Игрок", car: "template.png", sponsors: ["-", "-", "-"] },
+                { name: "Золотые мальчики", number: "69", pilot: "Табуретка", navigator: "Кириешка", car: "puma/baskov.png", sponsors: ["baskov/1.png"] },
                 { name: "-СВОБОДНО-", number: "00", pilot: "Игрок", navigator: "Игрок", car: "template.png", sponsors: ["-", "-", "-"] },
                 { name: "-СВОБОДНО-", number: "00", pilot: "Игрок", navigator: "Игрок", car: "template.png", sponsors: ["-", "-", "-"] },
                 { name: "-СВОБОДНО-", number: "00", pilot: "Игрок", navigator: "Игрок", car: "template.png", sponsors: ["-", "-", "-"] },
