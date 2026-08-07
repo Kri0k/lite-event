@@ -6,6 +6,8 @@
                 { name: "Озонваффлен", number: "24", pilot: "Курьер", navigator: "Лобстер", car: "puma/ozon.png", sponsors: ["ozon/1.png", "ozon/2.png", "ozon/3.png"] },
                 { name: "Д.С. 'Подберёзовик'", number: "52", pilot: "Остров", navigator: "Каспий", car: "puma/jeffrey.png", sponsors: ["jeffrey/1.png", "jeffrey/2.png"] },
                 { name: "Золотые мальчики", number: "69", pilot: "Табуретка", navigator: "Кириешка", car: "puma/baskov.png", sponsors: ["baskov/1.png"] },
+                { name: "Агенты 0.7", number: "13", pilot: "Бишоп", navigator: "Агуша", car: "yaris/pelmeni.png", sponsors: ["pelmeni/1.png", "pelmeni/2.png"] },
+                { name: "-СВОБОДНО-", number: "00", pilot: "Игрок", navigator: "Игрок", car: "template.png", sponsors: ["-", "-", "-"] },
                 { name: "-СВОБОДНО-", number: "00", pilot: "Игрок", navigator: "Игрок", car: "template.png", sponsors: ["-", "-", "-"] },
                 { name: "-СВОБОДНО-", number: "00", pilot: "Игрок", navigator: "Игрок", car: "template.png", sponsors: ["-", "-", "-"] },
                 { name: "-СВОБОДНО-", number: "00", pilot: "Игрок", navigator: "Игрок", car: "template.png", sponsors: ["-", "-", "-"] },
