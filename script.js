@@ -7,7 +7,7 @@
                 { name: "Д.С. 'Подберёзовик'", number: "52", pilot: "Остров", navigator: "Каспий", car: "puma/jeffrey.png", sponsors: ["jeffrey/1.png", "jeffrey/2.png"] },
                 { name: "Золотые мальчики", number: "69", pilot: "Табуретка", navigator: "Кириешка", car: "puma/baskov.png", sponsors: ["baskov/1.png"] },
                 { name: "Агенты 0.7", number: "13", pilot: "Бишоп", navigator: "Агуша", car: "yaris/pelmeni.png", sponsors: ["pelmeni/1.png", "pelmeni/2.png"] },
-                { name: "Серик и Берик 'ДПС'", number: "33", pilot: "Монолит", navigator: "Шалтай", car: "yaris/lada.png", sponsors: ["lada/1.png", "lada/2.png", "lada/3.png"] },
+                { name: "Серик и Берик 'ДПС'", number: "33", pilot: "Шалтай", navigator: "Монолит", car: "yaris/lada.png", sponsors: ["lada/1.png", "lada/2.png", "lada/3.png"] },
                 { name: "-СВОБОДНО-", number: "00", pilot: "Игрок", navigator: "Игрок", car: "template.png", sponsors: ["-", "-", "-"] },
                 { name: "-СВОБОДНО-", number: "00", pilot: "Игрок", navigator: "Игрок", car: "template.png", sponsors: ["-", "-", "-"] },
                 { name: "-СВОБОДНО-", number: "00", pilot: "Игрок", navigator: "Игрок", car: "template.png", sponsors: ["-", "-", "-"] },
